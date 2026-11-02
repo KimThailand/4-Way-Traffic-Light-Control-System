@@ -39,10 +39,6 @@ The website is deployed using Netlify.
 - **Live Website:** [Visit My Portfolio](https://portfolio-pakorn-kaewmanee.netlify.app/)
 - **GitHub Repository:** [Website-Portfolio](https://github.com/KimThailand/Website-Portfolio)
 
-## Project Images
-
-Screenshots of the website will be added here.
-
 ## Learning Outcomes
 
 - Understanding website structure using HTML.
