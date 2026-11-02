@@ -1,57 +1,55 @@
-# 4-Way Intersection Traffic Light Control System
+# Personal Portfolio Website
 
-A simulated traffic light control system for a four-way intersection using the PIC16F877A microcontroller. The system controls traffic lights in four directions and displays countdown timers using 7-segment displays.
+A personal portfolio website developed to showcase my profile, educational background, technical skills, and projects as a Computer Engineering student.
 
 ## Project Overview
 
-This project simulates a traffic light control system for a four-way intersection: North, East, South, and West.
+This project is a personal portfolio website designed to introduce myself and present my technical skills, academic background, and development projects.
 
-The system uses the PIC16F877A microcontroller to control red, yellow, and green traffic lights in a predefined sequence. Each direction has a countdown timer displayed on a 7-segment display, showing the remaining time before the traffic light changes.
+The website was developed using HTML, CSS, and JavaScript with a responsive design to support both desktop and mobile devices.
 
-The project was developed using C programming language and simulated with PICSimLab.
+The project is deployed using Netlify and the source code is hosted on GitHub.
 
 ## Features
 
-- Controls traffic lights in four directions.
-- Supports Red, Yellow, and Green light states.
-- Automatically switches traffic lights according to predefined timing.
-- Displays countdown timers for all four directions.
-- Uses 7-segment displays for real-time countdown display.
-- Applies Multiplexing technique to control multiple display digits.
+- Displays personal information and introduction.
+- Showcases technical skills and programming knowledge.
+- Presents educational background.
+- Displays academic and personal projects.
+- Provides access to my resume.
+- Includes contact information and social media links.
+- Supports responsive layouts for desktop and mobile devices.
 
-## Hardware Components
+## Technologies Used
 
-- PIC16F877A Microcontroller
-- 12 LEDs (Red, Yellow, and Green)
-- 4 sets of 4-digit 7-Segment Displays
+- HTML5
+- CSS3
+- JavaScript
 
 ## Software & Tools
 
-- C Programming Language
-- mikroC PRO for PIC
-- PICSimLab for circuit simulation
+- Visual Studio Code
+- Git & GitHub
+- Netlify
 
-## System Operation
+## Deployment
 
-1. The North direction starts with a green light.
-2. The green light changes to yellow after the configured time.
-3. The system switches to the next direction.
-4. Other directions remain red while one direction has the green or yellow light.
-5. Countdown timers update continuously on the 7-segment displays.
-6. The process repeats continuously for all four directions.
+The website is deployed using Netlify.
+
+- **Live Website:** [Visit My Portfolio](https://portfolio-pakorn-kaewmanee.netlify.app/)
+- **GitHub Repository:** [Website-Portfolio](https://github.com/KimThailand/Website-Portfolio)
 
 ## Project Images
 
-Simulation images will be added here.
+Screenshots of the website will be added here.
 
 ## Learning Outcomes
 
-- Understanding PIC16F877A microcontroller programming.
-- Practicing C programming for embedded systems.
-- Learning digital input/output control.
-- Understanding 7-segment display operation.
-- Applying Multiplexing techniques.
-- Using PICSimLab to simulate and test embedded systems.
+- Understanding website structure using HTML.
+- Practicing CSS styling and responsive web design.
+- Learning JavaScript for interactive website features.
+- Understanding website deployment using Netlify.
+- Practicing version control with Git and GitHub.
 
 ## Author
 
@@ -59,9 +57,8 @@ Simulation images will be added here.
 
 Computer Engineering Student
 
-Rajamangala University of Technology Phra Nakhon
+Rajamangala University of Technology Phra Nakhon (RMUTP)
 
 ## Project Category
 
-Embedded Systems | Microcontroller | Traffic Light Control
-
+Web Development | Personal Portfolio | Front-End Development
